@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Komentari na: Dobar dan, svijete!	</title>
+	<atom:link href="https://borna12.github.io/naucitehrvatski/2019/12/12/dan-svijete/feed/" rel="self" type="application/rss+xml" />
+	<link>https://borna12.github.io/naucitehrvatski/2019/12/12/dan-svijete/</link>
+	<description>Samo još jedna WordPress web-stranica</description>
+	<lastBuildDate>Thu, 12 Dec 2019 22:38:54 +0100</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+			<item>
+				<title>
+				Autor: WordPress komentator				</title>
+				<link>https://borna12.github.io/naucitehrvatski/2019/12/12/dan-svijete/#comment-1</link>
+		<dc:creator><![CDATA[WordPress komentator]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2019 22:38:54 +0000</pubDate>
+		<guid isPermaLink="false">https://borna12.github.io/naucitehrvatski/?p=1#comment-1</guid>
+					<description><![CDATA[Bok, ovo je komentar.
+Kako bi započeli s moderiranjem, uređivanjem i brisanjem komentara, na Nadzornoj ploči otvorite zaslon Komentara.
+Avatari komentatora dolaze iz &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+		<content:encoded><![CDATA[<p>Bok, ovo je komentar.<br />
+Kako bi započeli s moderiranjem, uređivanjem i brisanjem komentara, na Nadzornoj ploči otvorite zaslon Komentara.<br />
+Avatari komentatora dolaze iz <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>
