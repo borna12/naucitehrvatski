@@ -11,7 +11,7 @@
 	<title>admin &#8211; Naučite hrvatski</title>
 	<atom:link href="https://borna12.github.io/naucitehrvatski/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://borna12.github.io/naucitehrvatski</link>
-	<description>Samo još jedna WordPress web-stranica</description>
+	<description></description>
 	<lastBuildDate>Thu, 12 Dec 2019 22:38:54 +0100</lastBuildDate>
 	<language>hr</language>
 	<sy:updatePeriod>
@@ -28,7 +28,9 @@
 				<category><![CDATA[Nekategorizirano]]></category>
 
 		<guid isPermaLink="false">https://borna12.github.io/naucitehrvatski/?p=1</guid>
-				<description><![CDATA[Dobro došli u WordPress. Ovo je vaša prva objava. Uredite je ili izbrišite, a zatim počnite pisati!]]></description>
+				<description><![CDATA[<div class="entry-summary">
+Dobro došli u WordPress. Ovo je vaša prva objava. Uredite je ili&#8230;
+</div><div class="link-more"><a href="https://borna12.github.io/naucitehrvatski/2019/12/12/dan-svijete/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Dobar dan, svijete!&#8221;</span>&#8230;</a></div>]]></description>
 								<content:encoded><![CDATA[
 <p>Dobro došli u WordPress. Ovo je vaša prva objava. Uredite je ili izbrišite, a zatim počnite pisati!</p>
 ]]></content:encoded>
