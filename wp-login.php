@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Prijava &lsaquo; Naučite hrvatski &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='https://borna12.github.io/naucitehrvatski/wp-includes/css/dashicons.min.css?ver=5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='https://borna12.github.io/naucitehrvatski/wp-includes/css/buttons.min.css?ver=5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='https://borna12.github.io/naucitehrvatski/wp-admin/css/forms.min.css?ver=5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='https://borna12.github.io/naucitehrvatski/wp-admin/css/l10n.min.css?ver=5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='https://borna12.github.io/naucitehrvatski/wp-admin/css/login.min.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://borna12.github.io/naucitehrvatski/wp-includes/css/dashicons.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='https://borna12.github.io/naucitehrvatski/wp-includes/css/buttons.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='https://borna12.github.io/naucitehrvatski/wp-admin/css/forms.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='https://borna12.github.io/naucitehrvatski/wp-admin/css/l10n.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='https://borna12.github.io/naucitehrvatski/wp-admin/css/login.min.css?ver=5.3.2' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -71,20 +71,20 @@ var _zxcvbnSettings = {"src":"https:\/\/borna12.github.io\/naucitehrvatski\/wp-i
 var pwsL10n = {"unknown":"Nepoznata ja\u010dina lozinke","short":"Vrlo slabo","bad":"Slabo","good":"Srednja","strong":"Jako","mismatch":"Neslaganje"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://borna12.github.io/naucitehrvatski/wp-admin/js/password-strength-meter.min.js?ver=5.3'></script>
+<script type='text/javascript' src='https://borna12.github.io/naucitehrvatski/wp-admin/js/password-strength-meter.min.js?ver=5.3.2'></script>
 <script type='text/javascript' src='https://borna12.github.io/naucitehrvatski/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://borna12.github.io/naucitehrvatski/wp-includes/js/wp-util.min.js?ver=5.3'></script>
+<script type='text/javascript' src='https://borna12.github.io/naucitehrvatski/wp-includes/js/wp-util.min.js?ver=5.3.2'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var userProfileL10n = {"warn":"Va\u0161a nova lozinka nije spremljena.","warnWeak":"Potvrdite upotrebu slabe lozinke","show":"Prika\u017ei","hide":"Sakrij","cancel":"Odustani","ariaShow":"Prika\u017ei lozinku","ariaHide":"Sakrij lozinku"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://borna12.github.io/naucitehrvatski/wp-admin/js/user-profile.min.js?ver=5.3'></script>
+<script type='text/javascript' src='https://borna12.github.io/naucitehrvatski/wp-admin/js/user-profile.min.js?ver=5.3.2'></script>
 	<div class="clear"></div>
 	</body>
 	</html>

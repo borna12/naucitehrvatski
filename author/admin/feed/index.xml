@@ -12,30 +12,70 @@
 	<atom:link href="https://borna12.github.io/naucitehrvatski/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://borna12.github.io/naucitehrvatski</link>
 	<description></description>
-	<lastBuildDate>Thu, 12 Dec 2019 22:38:54 +0100</lastBuildDate>
+	<lastBuildDate>Thu, 26 Dec 2019 18:59:33 +0000</lastBuildDate>
 	<language>hr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3</generator>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
 	<item>
-		<title>Dobar dan, svijete!</title>
-		<link>https://borna12.github.io/naucitehrvatski/2019/12/12/dan-svijete/</link>
-				<comments>https://borna12.github.io/naucitehrvatski/2019/12/12/dan-svijete/#comments</comments>
-				<pubDate>Thu, 12 Dec 2019 22:38:54 +0000</pubDate>
+		<title>Brojevi (numbers)</title>
+		<link>https://borna12.github.io/naucitehrvatski/2019/12/26/brojevi-numbers/</link>
+				<comments>https://borna12.github.io/naucitehrvatski/2019/12/26/brojevi-numbers/#respond</comments>
+				<pubDate>Thu, 26 Dec 2019 17:46:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Nekategorizirano]]></category>
 
-		<guid isPermaLink="false">https://borna12.github.io/naucitehrvatski/?p=1</guid>
+		<guid isPermaLink="false">https://borna12.github.io/naucitehrvatski/?p=21</guid>
+				<description><![CDATA[<div class="link-more"><a href="https://borna12.github.io/naucitehrvatski/2019/12/26/brojevi-numbers/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Brojevi (numbers)&#8221;</span>&#8230;</a></div>]]></description>
+								<content:encoded><![CDATA[<div class="link-more"><a href="https://borna12.github.io/naucitehrvatski/2019/12/26/brojevi-numbers/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Brojevi (numbers)&#8221;</span>&#8230;</a></div>]]></content:encoded>
+							<wfw:commentRss>https://borna12.github.io/naucitehrvatski/2019/12/26/brojevi-numbers/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>ABECEDA (alphabet)</title>
+		<link>https://borna12.github.io/naucitehrvatski/2019/12/13/abeceda-alphabet/</link>
+				<comments>https://borna12.github.io/naucitehrvatski/2019/12/13/abeceda-alphabet/#respond</comments>
+				<pubDate>Fri, 13 Dec 2019 12:45:45 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Nekategorizirano]]></category>
+
+		<guid isPermaLink="false">https://borna12.github.io/naucitehrvatski/?p=16</guid>
 				<description><![CDATA[<div class="entry-summary">
-Dobro došli u WordPress. Ovo je vaša prva objava. Uredite je ili&#8230;
-</div><div class="link-more"><a href="https://borna12.github.io/naucitehrvatski/2019/12/12/dan-svijete/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Dobar dan, svijete!&#8221;</span>&#8230;</a></div>]]></description>
-								<content:encoded><![CDATA[
-<p>Dobro došli u WordPress. Ovo je vaša prva objava. Uredite je ili izbrišite, a zatim počnite pisati!</p>
-]]></content:encoded>
-							<wfw:commentRss>https://borna12.github.io/naucitehrvatski/2019/12/12/dan-svijete/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
+Nauči hrvatsku abecedu! Hrvatska abeceda ima 30 slova: 5 vokala i 25&#8230;
+</div><div class="link-more"><a href="https://borna12.github.io/naucitehrvatski/2019/12/13/abeceda-alphabet/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;ABECEDA (alphabet)&#8221;</span>&#8230;</a></div>]]></description>
+								<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="16" class="elementor elementor-16" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-97ec839 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="97ec839" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-22816e1 elementor-column elementor-col-100 elementor-top-column" data-id="22816e1" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-14772a9 elementor-widget elementor-widget-text-editor" data-id="14772a9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h1 class="naslov" style="text-align: center;">Nauči hrvatsku abecedu!</h1>
+<p>Hrvatska abeceda ima 30 slova: 5 vokala i 25 konsonanata.</p>
+
+<p>Tri konsonanta u hrvatskom imaju dva znaka, a to su <span class="soundcite" dir="ltr" data-url="https://borna12.github.io/naucitehrvatski/wp-content/uploads/2019/12/dz.mp3" data-plays="1">dž</span>, <span class="soundcite" dir="ltr" data-url="https://borna12.github.io/naucitehrvatski/wp-content/uploads/2019/12/lj.mp3" data-plays="1">lj</span> i <span class="soundcite" dir="ltr" data-url="https://borna12.github.io/naucitehrvatski/wp-content/uploads/2019/12/nj.mp3" data-plays="1">nj</span>. Iako se pišu s dva znaka, oni su jedan glas.</p>
+
+<p>Kliknite zvučnik za slušanje glasa i play za pisanje slova. Izgovorite svaki glas koji čujete i na papir pišite slovo.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		]]></content:encoded>
+							<wfw:commentRss>https://borna12.github.io/naucitehrvatski/2019/12/13/abeceda-alphabet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
 							</item>
 	</channel>
 </rss>

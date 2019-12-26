@@ -11,11 +11,11 @@
 	<atom:link href="https://borna12.github.io/naucitehrvatski/primjer-stranice/feed/" rel="self" type="application/rss+xml" />
 	<link>https://borna12.github.io/naucitehrvatski</link>
 	<description></description>
-	<lastBuildDate>Thu, 12 Dec 2019 22:38:54 +0100</lastBuildDate>
+	<lastBuildDate>Thu, 12 Dec 2019 22:38:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3</generator>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
 </channel>
 </rss>
