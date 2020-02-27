@@ -12,7 +12,7 @@
 	<atom:link href="https://borna12.github.io/naucitehrvatski/category/nekategorizirano/feed/" rel="self" type="application/rss+xml" />
 	<link>https://borna12.github.io/naucitehrvatski</link>
 	<description></description>
-	<lastBuildDate>Sat, 28 Dec 2019 13:30:15 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Feb 2020 17:01:57 +0000</lastBuildDate>
 	<language>hr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,19 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.3.2</generator>
 	<item>
+		<title>Dijelovi auta</title>
+		<link>https://borna12.github.io/naucitehrvatski/2020/02/27/dijelovi-auta/</link>
+				<pubDate>Thu, 27 Feb 2020 17:01:57 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+				<category><![CDATA[Nekategorizirano]]></category>
+
+		<guid isPermaLink="false">https://borna12.github.io/naucitehrvatski/?p=1282</guid>
+				<description><![CDATA[<div class="link-more"><a href="https://borna12.github.io/naucitehrvatski/2020/02/27/dijelovi-auta/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;Dijelovi auta&#8221;</span>&#8230;</a></div>]]></description>
+								<content:encoded><![CDATA[
+<p>           <code><div class="h5p-iframe-wrapper"><iframe id="h5p-iframe-1" class="h5p-iframe" data-content-id="1" style="height:1px" src="about:blank" frameBorder="0" scrolling="no"></iframe></div></code>          </p>
+]]></content:encoded>
+										</item>
+		<item>
 		<title>Brojevi (numbers)</title>
 		<link>https://borna12.github.io/naucitehrvatski/2019/12/26/brojevi-numbers/</link>
 				<pubDate>Thu, 26 Dec 2019 17:46:16 +0000</pubDate>
